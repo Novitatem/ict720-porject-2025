@@ -2,8 +2,10 @@
 Rep for demo idea, and code fo ICT720 cource of 2025
 
 # Our Members
-Mr. Chananyu Kamolsuntron
+Mr. Chananyu Kamolsuntron 
+
 Mr. Intouch Wangtrakoondee
+
 Mr. Lihour San
 
 # User stories 
