@@ -59,3 +59,8 @@ The system automatically detects a refill and updates the status.
 
 **acceptance criteria #3**
 I receive a confirmation message when the refill is detected.
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/a1c14748-8bd7-4168-9f74-5edce146eb19">
+</p>
+
