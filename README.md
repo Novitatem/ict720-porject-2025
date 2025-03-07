@@ -21,7 +21,7 @@ I can verify that the device is online.
 **acceptance criteria #3**
 I receive a confirmation message when the device successfully connects to the server.
 
-2. US2: Toilet Paper Level Detection
+2. **US2**: Toilet Paper Level Detection
 
 As an owner, I want my device to measure toilet paper levels, so that I know when I need to refill it.
 
